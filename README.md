@@ -1,7 +1,7 @@
 # EMsystem
 
 아두이노 코딩
-
+```
 void setup() {
   Serial.begin(9600);
   pinMode(4, INPUT_PULLUP);
@@ -12,7 +12,7 @@ void loop() {
   delay(500);
 }
 
-
+```
 서버 코딩
 ```
 import processing.serial.*;

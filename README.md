@@ -14,7 +14,7 @@ void loop() {
 
 
 서버 코딩
-
+```
 import processing.serial.*;
 import processing.net.*;
 Serial p;
@@ -40,5 +40,5 @@ void draw() {
     if (a!=null) m = a;
   }
 }
-
+```
 <img width="459" height="548" alt="image" src="https://github.com/user-attachments/assets/8290aa24-b75b-4e66-812f-bdbe72c28b75" />

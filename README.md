@@ -136,7 +136,7 @@
  ┣ 📄 CarThermoBridgeServer_r4_CORS.pde
  ┗ 🌐 carthermo_v3.html
 ```
-
+해당 파일은 위 cartemp에 있습니다
 ---
 
 ## 👨‍💻 제작자
